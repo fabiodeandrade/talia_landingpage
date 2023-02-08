@@ -1,4 +1,4 @@
-# TalIA Landing Page - React + Typescript + Chakra UI + Jest + React Testing Library
+# TalIA Landing Page - React + Typescript + Chakra UI + Tailwind + Jest + React Testing Library
 
 ![cover]("../assets/../../src/assets/demo.jpg)
 ![](https://img.shields.io/badge/FrontEnd-React.JS-aqua) ![](https://img.shields.io/badge/Typescript-blue) ![](https://img.shields.io/badge/Jest-yellow)
