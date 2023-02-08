@@ -1,0 +1,46 @@
+.priceCard {
+  width: 60%;
+  max-width: 300px;
+  border: 2px solid rgba(255, 255, 255, 0.137);
+}
+
+.topCard {
+  border-bottom: 2px solid rgba(255, 255, 255, 0.158);
+}
+
+.topCard p {
+  font-size: 13px;
+}
+
+.middleRow {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.stylyes {
+  background-color: rgb(156, 209, 156);
+  transform: scale(1.05);
+}
+
+.stylyes svg {
+  background-color: rgb(156, 209, 156);
+  color: black;
+}
+
+.stylyes p {
+  color: black;
+  background-color: rgb(156, 209, 156);
+}
+.stylyes h1 {
+  color: black;
+  background-color: rgb(156, 209, 156);
+}
+
+.stylyes div {
+  background-color: rgb(156, 209, 156);
+}
+
+.styles h1 span {
+  background-color: rgb(156, 209, 156);
+}

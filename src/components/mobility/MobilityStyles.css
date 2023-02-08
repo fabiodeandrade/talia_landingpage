@@ -1,0 +1,9 @@
+.mobility {
+  /* background-color: rgb(34, 34, 34); */
+ background: rgb(238,174,202);
+background: radial-gradient(circle, rgb(56, 122, 43) 0%, rgb(41, 41, 41) 100%);
+}
+
+.mobility img {
+  max-width: 350px;
+}

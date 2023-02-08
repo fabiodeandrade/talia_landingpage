@@ -1,0 +1,18 @@
+.videobg video {
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.videobg {
+  height: 100vh;
+  z-index: -1;
+  width: 100%;
+  float: left;
+  top: 0;
+  padding: none;
+  position: fixed;
+}

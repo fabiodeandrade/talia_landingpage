@@ -1,0 +1,10 @@
+.mainCard {
+  min-height: 200px;
+  min-width: 300px;
+  transition: all ease 0.6s;
+}
+
+.mainCard:hover {
+  background-color: rgba(32, 32, 32, 0.61);
+  transform: scale(1.03);
+}

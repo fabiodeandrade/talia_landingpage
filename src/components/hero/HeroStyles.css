@@ -1,0 +1,17 @@
+.hero {
+  /* background-color: rgb(34, 34, 34); */
+  background: url("../../assets/heroback.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: calc(100vh - 3rem);
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+/* .rigthContent img {
+  max-width: 550px;
+  min-width: 300px;
+} */
